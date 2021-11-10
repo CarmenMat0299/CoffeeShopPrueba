@@ -1,0 +1,5 @@
+﻿El proyecto se realizo en nodeJS con conexion a base de datos SQLServer
+Comando para instalar las dependecias: npm install
+Comando para ejecucion: npm run dev
+Adjunto el script de SQL para la creacion de la base de datos 
+La configuracion de conecction se realiza config.js
